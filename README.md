@@ -35,8 +35,8 @@ It started with a TV show about programmers building websites — that curiosity
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EXdes796&show_icons=true&theme=tokyonight&hide_border=true" alt="Oybek's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EXdes796&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Exdensy&show_icons=true&theme=tokyonight&hide_border=true" alt="Oybek's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exdensy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 <br>
@@ -50,7 +50,7 @@ It started with a TV show about programmers building websites — that curiosity
   <a href="https://t.me/Oybek_tr" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://github.com/EXdes796" target="_blank">
+  <a href="https://github.com/Exdensy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
